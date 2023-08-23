@@ -1,2 +1,3 @@
 *.dll linguist-detectable=false
 *.idl linguist-detectable=false
+*.lib linguist-detectable=false
