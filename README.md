@@ -6,3 +6,6 @@ Download the binaries for your platform from the [Releases tab](https://github.c
 
 # Always backup your seed!
 Just because this is a desktop aplication doesnt mean you don't have to back up your seed!
+
+# Must watch!
+[click me](https://www.youtube.com/watch?v=D9mLq2TtwNw)
