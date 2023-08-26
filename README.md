@@ -14,4 +14,4 @@ Whenever you run vault from your terminal vault-desktop will launch
 Just because this is a desktop aplication doesnt mean you don't have to back up your seed!
 
 # Must watch!
-[click me](https://www.youtube.com/watch?v=D9mLq2TtwNw)
+[click me](https://www.youtube.com/watch?v=aKg1icVP5rM). Low res warnign....
